@@ -41,3 +41,6 @@
 - Pola code
 
   - polaroid my code in case to paste my code to google slide etc
+
+- Laravel Blade Snippets
+  - Laravel blade snippets and syntax highlight support
