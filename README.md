@@ -43,4 +43,16 @@
   - polaroid my code in case to paste my code to google slide etc
 
 - Laravel Blade Snippets
+
   - Laravel blade snippets and syntax highlight support
+
+- Laravel Blade formatter
+
+  - Automatically Indents markup inside directives
+
+  - Automatically add spacing to blade templating markers
+
+- EditorConfig
+
+  - The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. 
+
